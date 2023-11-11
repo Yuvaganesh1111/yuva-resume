@@ -13,10 +13,9 @@ const Home = () => {
               <span class="text-primary">Ganesh</span>
             </h1>
             <div class="subheading mb-5">
-              51, HAK Road Chinna Chokkikulam Madurai TamilNadu · (+91)
-              8778674778 ·
+             
               <a href="mailto:yuvaganeshyg1111@email.com">
-                yuvaganeshyg1111@gmail.com
+                
               </a>
             </div>
             <p class="lead mb-5">
