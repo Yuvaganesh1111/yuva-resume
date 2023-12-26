@@ -14,7 +14,7 @@ const Home = () => {
             </h1>
             <div class="subheading mb-5">
              
-              <a href="mailto:yuvaganeshyg1111@email.com">
+              <a href="mailto:demo@email.com">
                 
               </a>
             </div>
