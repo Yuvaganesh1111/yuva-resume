@@ -50,6 +50,34 @@ const Award = () => {
                     Context API. Make asynchronous requests to the backend API
                     to fetch and update data.
                   </li>
+                  
+                  
+                </ul>
+              </li>
+              <li className="mt-3">
+                <span class="fa-li">
+                  <i class="fas fa-trophy text-warning"></i>
+                </span>
+                Created a real-time chat application
+                <ul class="fa-ul mb-0">
+                  <li>
+                    <span class="fa-li">
+                      <i class="fas fa-check"></i>
+                    </span>
+                    <h4 className="mt-3">Backend Development:</h4>
+                    Implemented Socket.io for bidirectional communication, 
+                    enabling instant updates and notifications for an interactive
+                     and engaging chat.Set up a Node.js server using Express.js. 
+                  </li>
+                  <li>
+                    <span class="fa-li">
+                      <i class="fas fa-check"></i>
+                    </span>
+                    <h4 className="mt-3">Frontend Development:</h4>
+                    Ensured the app is accessible on all devices, providing 
+                    a smooth user experience from desktop to mobile.
+                  </li>
+                  
                 </ul>
               </li>
             </ul>
